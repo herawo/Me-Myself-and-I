@@ -1,31 +1,31 @@
 # My Curriculum Vitae
 
 ## The Main 
+
+**Last Name** : Clément
+
+**First Name** : Alexis
+
+**Username** : Herawo
+
+**Born** : 05/09/1997
+
+**From** : France
+
+
+**Actual City** : Grenoble, Isere
+
+**Actual Job** : Application Developper for GFI
+
+**Technology interested in** : 
+
 <dl>
-	<dd> **Last Name** : Clément </dd>
-
-	<dd> **First Name** : Alexis </dd>
-
-	<dd> **Username** : Herawo </dd>
-
-	<dd> **Born** : 05/09/1997 </dd>
-
-	<dd> **From** : France </dd>
-
-
-	<dd> **Actual City** : Grenoble, Isere </dd>
-
-	<dd> **Actual Job** : Application Developper for GFI </dd>
-
-	<dd> **Technology interested in** : </dd>
-
-	<dl>
-	  <dd> PHP Symfony </dd>
-	  <dd> Django / Flask / Turbogears </dd>
-	  <dd> NodeJS </dd>
-	  <dd> Java </dd>
-	</dl>
+  <dd>PHP Symfony</dd>
+  <dd>Django / Flask / Turbogears</dd>
+  <dd>NodeJS</dd>
+  <dd>Java</dd>
 </dl>
+
 ## My Experiences
 
 
