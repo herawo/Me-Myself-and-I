@@ -33,19 +33,19 @@ Passionné par le monde du **libre collaboratif**, par l'**audio/visuel** et les
 
 + Intern Software and Web Application developer - 16 weeks - GFI, Meylan.
 	
-	...- Developement on e-Exam
+	... Developement on e-Exam
 
-	...- Developement on e-Exam Kiosk
+	... Developement on e-Exam Kiosk
 
-	...- Virtual Machine deployment
+	... Virtual Machine deployment
 
 + Intern Web Software developer – 12 weeks – Algoo, Moirans.
 
-	...- Developement on Tracim
+	... Developement on Tracim
 
-	...- Collaboration on Preview-generator
+	... Collaboration on Preview-generator
 
-	...- Continuous Integration on Preview-generator free library
+	... Continuous Integration on Preview-generator free library
 
 + IOS Screen tester - 4 weeks - RemadeInFrance
 
