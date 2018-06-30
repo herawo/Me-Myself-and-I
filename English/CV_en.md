@@ -1,7 +1,7 @@
 # My Curriculum Vitae
 
-Jeune développeur informatique en alternance en **développement d'application web**.
-Passionné par le monde du **libre collaboratif**, par l'**audio/visuel** et les **sciences de la vie**
+Young computer developer intern in web **application development**. 
+Passionate in collaborative **free software**, **audio/visual** and **life sciences**.
 
 ## The Main 
 
