@@ -1,6 +1,6 @@
 # My Curriculum Vitae
 
-Young computer developer intern in web **application development**. 
+Young developer intern in web **application development**. 
 Passionate in collaborative **free software**, **audio/visual** and **life sciences**.
 
 ## The Main 
