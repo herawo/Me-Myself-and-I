@@ -1,7 +1,5 @@
-import [Developer](Developer.md);
-import [Experience](Experience.md);
-import [Project](Project.md);
-
+You may also want to see [Main class](MeMyselfAndI.md) [Experience](Experience.md) and [Project](Project.md)
+I wrote this in Java because it is one of the most famous and practised langage accross the world, but it's not my speciality.
 ```
 public class Developer{
 	private String last_name;

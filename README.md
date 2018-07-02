@@ -10,5 +10,7 @@ Si vous préferez une version dans la langue d'Orelsan :
 [Cliquez ici](French/CV_fr.md)
 
 if (user.isDeveloper()){
+
 &nbsp;&nbsp;&nbsp;&nbsp; user.click([curriculumLink](Algorithm/MeMyselfAndI.md));
+
 }
